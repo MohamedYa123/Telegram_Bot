@@ -1,0 +1,17 @@
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.exe
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.deps.json
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.runtimeconfig.json
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.runtimeconfig.dev.json
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.dll
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\teleBot.pdb
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.AssemblyInfoInputs.cache
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.AssemblyInfo.cs
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.dll
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.pdb
+C:\Users\medo1\source\repos\teleBot\teleBot\obj\Debug\netcoreapp3.1\teleBot.genruntimeconfig.cache
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\medo1\source\repos\teleBot\teleBot\bin\Debug\netcoreapp3.1\Telegram.Bot.Extensions.Polling.dll
